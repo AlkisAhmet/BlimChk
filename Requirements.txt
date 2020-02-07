@@ -1,0 +1,4 @@
+colorama
+cfscrape
+requests
+bs4
