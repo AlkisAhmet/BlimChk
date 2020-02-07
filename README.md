@@ -8,8 +8,9 @@ For Blim. Made with python.
 apt update && apt upgrade
 pkg install python2
 pkg install git
-Git clone https://github.com/Mr-Z3r0/BlimChk.git
+git clone https://github.com/Mr-Z3r0/BlimChk.git
 cd blimchk
+pip2 install -r requirements.txt
 python2 blim.py
 ```
 
